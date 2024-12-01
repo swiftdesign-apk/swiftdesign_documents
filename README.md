@@ -4,6 +4,35 @@ Welcome to the SwiftDesign repository, your go-to tool for creating and managing
 # swiftdesign
 learn videos
 https://www.youtube.com/@Sswiftdesign0985
+
+Setting Up ESP8266 Module with JSON Server Integration (swiftdesign)
+https://youtu.be/PV-M5d7y2hA
+
+Rangmang easy and free cast controller rgb ws2811 to ws2814 (swiftdesign)
+https://youtu.be/IyLNVy2eSnM
+
+Custom Wait (swiftdesign)
+https://youtu.be/8atLsWs_0qQ
+
+Note Control  note out bluetooth serial (swiftdesign)
+https://youtu.be/ukyzm-MxTv8
+
+Analog Speedometer Sample  Button Efect (swiftdesign)
+https://youtu.be/pGiuXAdrVos
+
+Html Edit and View Fast (swiftdesign)
+https://youtu.be/-sQA0ZbYG2k
+
+Example Audio image Pdf Web Note  (swiftdesign)
+https://youtu.be/VuUvTM_DrTM
+
+Creating menus and navigating between pages in an Android app (swiftdesign)
+https://youtu.be/qWziRJ_BdQI
+
+Send Bluetooth Serial by Button (swiftdesign)
+https://youtu.be/BZxvfnrh_hY
+
+
 # swiftdesign
 
 swiftdesign
