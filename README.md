@@ -2,7 +2,7 @@
 Welcome to the SwiftDesign repository, your go-to tool for creating and managing Android UI designs.
 
 # swiftdesign
-learn videos
+YouTube channel link
 https://www.youtube.com/@Sswiftdesign0985
 
 Setting Up ESP8266 Module with JSON Server Integration (swiftdesign)
