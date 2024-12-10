@@ -323,6 +323,53 @@ All these steps are explained on YouTube.
 https://youtu.be/PV-M5d7y2hA
 
 Paste the main file into the page folder of the Android software to display the swiftdesign program
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+GET API
+In SwiftDesign, you can easily make GET API requests. To do this, you first need to find the hosting site, obtain the key and address, and then configure the button behavior and server request. Set the address field, filter field, and key field so that in the SwiftDesign run mode, the request is automatically sent, and the result is displayed on the created button. Note that there are two types of responses:
+
+Text Response: Set the filter field to 0. If you have a custom response, you can set this filter between 100 to 999.
+
+Value Response: The received value will be rounded off, meaning there will be no decimal places. For example, 123.125 will be converted to 123.
+
+If there is no endpoint in the filter, set it to 0.
+
+Example
+Let's say you want to read the Bitcoin price from 
+   
+https://www.diadata.org/free-crypto-api
+
+Go to the bottom of the page, select Bitcoin, and click on "Show Address". Then, select "coin data", choose "btc", click "run feed", then on the right click on "API endpoint" and copy the URL. Check the result in your browser:
+
+Address:
+
+url:
+https://api.diadata.org/v1/assetQuotation/Bitcoin/0x0000000000000000000000000000000000000000
+Result:
+
+json:
+{
+    "Symbol": "BTC",
+    "Name": "Bitcoin",
+    "Address": "0x0000000000000000000000000000000000000000",
+    "Blockchain": "Bitcoin",
+    "Price": 95177.90294221917,
+    "PriceYesterday": 97568.49469384184,
+    "VolumeYesterdayUSD": 26903865165.965874,
+    "Time": "2024-12-10T17:47:59Z",
+    "Source": "diadata.org",
+    "Signature": "0x3f00d254ca357064ed7ae9b96b1275987881b37d56e757afca7d9c659f1fd3381003e60388bf8f10c70e5387805195414ba567d201e169ae765ede851fee2b3d00"
+}
+
+Now, if you want to request the price:
+
+Address Field: Enter the API URL 
+https://api.diadata.org/v1/assetQuotation/Bitcoin/0x0000000000000000000000000000000000000000 
+
+Filter Field: Set to          0 
+
+Server Key Field: Set to     Price 
+
+Go to the play page and see the updated price. For other APIs, you need to get the address and key. You can use artificial intelligence to help
 
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
