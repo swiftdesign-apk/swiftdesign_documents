@@ -380,6 +380,7 @@ Go to the play page and see the updated price. For other APIs, you need to get t
 - android-app
 - bluetooth-serial
 - apk
+- API
 - Programmable Buttons
 - android
 - swift
