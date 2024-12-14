@@ -262,7 +262,7 @@ Open the Arduino Code:
 
 Go to the folder Arduino code for programming the module ESP8266.
 
-Open the esp8266.txt file and copy the code.
+Open the      ESP8266_Reporter_connect microcontroller.txt      file and copy the code.
 
 Install Libraries and Paste Code:
 
@@ -323,6 +323,10 @@ All these steps are explained on YouTube.
 https://youtu.be/PV-M5d7y2hA
 
 Paste the main file into the page folder of the Android software to display the swiftdesign program
+
+!!!!!
+Note: If you don't want to keep a computer running as a local server, you can use another ESP8266 module with the first method described but this time using the ESP8266_Server_solo_just_need_power.txt code. Configure this code on another module using Arduino. Note that this module also requires the modem name and password. After uploading the code, the module will announce its MAC address and its own address on each restart. You will need this address for the first module or the reporter connected to the microcontroller. This server module doesn't need anything else except for 3.3 volts to continue operating. Now you can issue your commands in SwiftDesign; the server module will receive them and transfer them to the reporter module. You can network several SwiftDesigns with several reporters, but there will be only one server module
+
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 GET API
 In SwiftDesign, you can easily make GET API requests. To do this, you first need to find the hosting site, obtain the key and address, and then configure the button behavior and server request. Set the address field, filter field, and key field so that in the SwiftDesign run mode, the request is automatically sent, and the result is displayed on the created button. Note that there are two types of responses:
