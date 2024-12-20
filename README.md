@@ -3,7 +3,7 @@ Welcome to the SwiftDesign repository, your go-to tool for creating and managing
 
 # swiftdesign
 YouTube channel link
-https://www.youtube.com/@Sswiftdesign0985
+https://www.youtube.com/@swiftdesign-Android
 
 Setting Up ESP8266 Module with JSON Server Integration (swiftdesign)
 https://youtu.be/PV-M5d7y2hA
