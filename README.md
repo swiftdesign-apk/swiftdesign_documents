@@ -388,6 +388,7 @@ Go to the play page and see the updated price. For other APIs, you need to get t
 - Programmable Buttons
 - android
 - swift
+- Graph
 - custom-ui
 - Bluetooth-microcontrollers
 - Bluetooth Serial Interface to Send data to microcontrollers
