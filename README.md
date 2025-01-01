@@ -375,6 +375,11 @@ Server Key Field: Set to     Price
 
 Go to the play page and see the updated price. For other APIs, you need to get the address and key. You can use artificial intelligence to help
 
+
+Graph :
+
+Graphs in SwiftDesign receive values from the button's behavior on the receiver, whether through Bluetooth, API, or server, and they only accept integers between 0 and 99,999. Graphs work with two schedules: internal and external, and each graph can have its own specific address, color, and schedule. Graphs are saved in the SwiftDesign Graph folder with the page folder name and the initial button name at the bottom of the graph, continuing until the graphing process is complete. If the connection is interrupted, the graphing stops but will resume once reconnected. However, if you exit the program, the graphing will not continue, and the first page will replace the previously named page. To avoid overwriting, you can take a backup or slightly change the button name so that new files are saved separately from the previous ones. If you have multiple graphs with different names for the same button, don't worry. In the end, in graph review mode, simply change the button name to the corresponding graph name to summon and review that graph
+
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 ## Keywords
