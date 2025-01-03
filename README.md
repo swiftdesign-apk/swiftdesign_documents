@@ -71,9 +71,6 @@ To download swiftdesign, you can visit the following resources:
 
 GitHub
 
-YouTube (which includes Google Drive download links)
-
-APKPure market for quick access to updates
 
 Example of Sending Commands or Custom Messages to the Serial Terminal in swiftdesign
 Open swiftdesign: Click on the play icon in the top right corner. From the play page, switch to the stop or edit page; the icon will display as a stop symbol. Locate the design icon (a 6-grid icon) in the top right and click on it. Choose the third option to summon a button.
